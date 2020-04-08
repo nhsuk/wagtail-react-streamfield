@@ -23,7 +23,7 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-redux": "^5.1.1",
-    "react-streamfield": "git+https://git@github.com/yohanlebret/react-streamfield",
+    "react-streamfield": "git+https://github.com/nhsuk/wagtail-react-streamfield.git",
     "react-tabs": "^3.0.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
